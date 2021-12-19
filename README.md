@@ -28,9 +28,9 @@ https://github.com/kickboxio/kickbox-php
 Use the repective client secrets in **register.php** in both views and models
 
 
-**Working**
-/register -- default root for registering an user
-/welcome -- listing of all the users in the database with sortings used by bootstrap + jquery datatables
+### Urls
+`/register -- default root for registering an user`
+`/welcome  -- listing of all the users in the database with sortings used by bootstrap + jquery datatables`
 
 # REST API
 ## Get list of Users
