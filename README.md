@@ -24,3 +24,5 @@ Email verification has been done through the Kickbox.Com please check the docs f
 https://github.com/kickboxio/kickbox-php
 
 **Google recaptcha is used as per the documentations avaiable**
+
+Use the repective client secrets in **register.php** in both views and models
