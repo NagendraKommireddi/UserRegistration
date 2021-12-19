@@ -33,8 +33,8 @@ CREATE TABLE `users` (
 -- ----------------------------
 -- Records of users
 -- ----------------------------
-INSERT INTO `users` VALUES ('1', 'Nags', 'nagendrakommireddi@gmail.com', 'test!@#$%', '0', '1678095753', null);
-INSERT INTO `users` VALUES ('2', 'syam', 'syam_s@gmail.com', 'syam123', '0', '1678095753', null);
-INSERT INTO `users` VALUES ('3', 'Aravind', 'nagaravind@gmail.com', 'test#@!123', '0', '1678095753', null);
+INSERT INTO `users` VALUES ('1', 'Nags', 'tester123@gmail.com', 'test!@#$%', '0', '1678095753', null);
+INSERT INTO `users` VALUES ('2', 'syam', 'tester@gmail.com', 'syam123', '0', '1678095753', null);
+INSERT INTO `users` VALUES ('3', 'Aravind', 'tester456@gmail.com', 'test#@!123', '0', '1678095753', null);
 INSERT INTO `users` VALUES ('4', 'changed_test1', 'test@gmail.com', 'testing!@#', '1', null, '1639884747');
-INSERT INTO `users` VALUES ('5', 'Nagendra', 'nagendrakommireddi@gmail.com', 'Nags123!@#', '0', null, null);
+INSERT INTO `users` VALUES ('5', 'Nagendra', 'tester789@gmail.com', 'Nags123!@#', '0', null, null);
