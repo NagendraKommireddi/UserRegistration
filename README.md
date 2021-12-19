@@ -23,4 +23,4 @@ How to run the User registration using CodeIgniter
 Email verification has been done through the Kickbox.Com please check the docs for the same on 
 https://github.com/kickboxio/kickbox-php
 
-**Google recaptcha is used as per the documentations avaialbe**
+**Google recaptcha is used as per the documentations avaiable**
